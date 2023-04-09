@@ -27,4 +27,5 @@ Here are some ideas to get you started:
 
 ### 🌱 I’m currently learning python and bigData
 
-### 📫 How to reach me: le1109721@gamail.com
+### 📫 How to reach me: 
+le1109721@gamail.com
