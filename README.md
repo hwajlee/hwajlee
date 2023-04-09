@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🤔 I’m Interest
+
+Math
+BigData
+Web
+Marketing
+
+🌱 I’m currently learning python and bigData
+
+📫 How to reach me: le1109721@gamail.com
