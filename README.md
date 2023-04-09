@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 🤔 I’m Interest
 
-Math
-BigData
-Web
-Marketing
+- Math
+- BigData
+- Web
+- Marketing
 
 🌱 I’m currently learning python and bigData
 
