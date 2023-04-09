@@ -14,14 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 😄 Who am I 
+🎓 I majored in Economics and interdisciplinart study is Data Science. 
 
-🤔 I’m Interest
+
+### 🌈 I’m Interest
 
 - Math
 - BigData
 - Web
 - Marketing
 
-🌱 I’m currently learning python and bigData
+### 🌱 I’m currently learning python and bigData
 
-📫 How to reach me: le1109721@gamail.com
+### 📫 How to reach me: le1109721@gamail.com
