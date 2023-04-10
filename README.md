@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 😄 Who am I 
-🎓 I majored in Economics and interdisciplinart study is Data Science. 
+🎓 I majored in Economics and interdisciplinary study is Data Science. 
 
 
 ### 🌈 I’m Interest
